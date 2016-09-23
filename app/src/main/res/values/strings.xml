@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstArcgis</string>
+    <string name="no_permissions">No permission</string>
+    <string name="init_sth">Init Something</string>
+</resources>
